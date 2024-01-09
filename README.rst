@@ -1,4 +1,5 @@
-# Open edX Demo Course, v2
+Open edX Demo Course, v2
+########################
 
 Contents
 ********
